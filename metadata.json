@@ -1,0 +1,7 @@
+{
+  "name": "NeuroDiab Predictor",
+  "description": "A multi-model neural network simulation for diabetes risk prediction and health analysis using Gemini 2.5.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
